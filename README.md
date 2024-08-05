@@ -1,3 +1,4 @@
+[![MasterHead](file:///Users/brunomaree/Downloads/DALL%C2%B7E%202024-08-05%2020.58.29%20-%20A%20serene,%20traditional%20Japanese%20setting%20featuring%20many%20capybaras.%20They%20are%20surrounded%20by%20cherry%20blossom%20trees%20in%20full%20bloom,%20a%20tranquil%20koi%20pond,%20and%20a.webp)](https://github.com/Maree-Bruno)
 <h1 align="center">✨Bruno Marée✨</h1>
 <p align="center">Trying to be good to hopefully get my diploma🤓</p>
 <img align="center" alt="kermit smashing his keyboard" width="1200" src="https://media1.tenor.com/m/XgaU95K_XiwAAAAC/kermit-typing.gif">
