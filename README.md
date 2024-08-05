@@ -1,6 +1,6 @@
 <h1 align="center">✨Bruno Marée✨</h1>
 <p align="center">Trying to be good to hopefully get my diploma🤓</p>
-  <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/XgaU95K_XiwAAAAC/kermit-typing.gif">
+  <img align="center" alt="Coding" width="700" src="https://media1.tenor.com/m/XgaU95K_XiwAAAAC/kermit-typing.gif">
 
 
 <!--
