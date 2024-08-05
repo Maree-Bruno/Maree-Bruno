@@ -1,4 +1,4 @@
-<img src="github-banner.png" alt="Capybara in a japanese style" height="600" align="center">  
+<img src="github-banner.png" alt="Capybara in a japanese style" align="center">  
 
 <h1 align="center">✨Bruno Marée✨</h1>
 <p align="center">Trying to be good to hopefully get my diploma🤓</p>
