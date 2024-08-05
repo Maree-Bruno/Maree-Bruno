@@ -1,4 +1,4 @@
-![DALL·E 2024-08-05 20 58 29 - A serene, traditional Japanese setting featuring many capybaras  They are surrounded by cherry blossom trees in full bloom, a tranquil koi pond, and a](https://github.com/user-attachments/assets/d8538353-4886-4612-8be5-7cbeb11ffb0e)
+
 
 <h1 align="center">✨Bruno Marée✨</h1>
 <p align="center">Trying to be good to hopefully get my diploma🤓</p>
