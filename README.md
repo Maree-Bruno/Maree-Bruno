@@ -1,5 +1,3 @@
-<img src="github-banner.png" alt="Capybara in a japanese style" align="center">  
-
 <h1 align="center">✨Bruno Marée✨</h1>
 <p align="center">Trying to be good to hopefully get my diploma🤓</p>
 <img align="center" alt="kermit smashing his keyboard" width="1200" src="https://media1.tenor.com/m/XgaU95K_XiwAAAAC/kermit-typing.gif">
