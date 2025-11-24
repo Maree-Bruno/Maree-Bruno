@@ -2,7 +2,6 @@
 <p align="center">Trying to be good to hopefully get my diploma🤓</p>
 <img align="center" alt="kermit smashing his keyboard" width="1200" src="https://media1.tenor.com/m/XgaU95K_XiwAAAAC/kermit-typing.gif">
 <h2>Stacks</h2>
-<div>
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -20,8 +19,6 @@
 ![VueJs](https://img.shields.io/badge/VueJs?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D&logoSize=auto)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-</div>  
-
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.facebook.com/brunobruno.maree/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
